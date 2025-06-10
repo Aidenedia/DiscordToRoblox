@@ -3,5 +3,8 @@ I wrote a discord bot and flask server which gets input from a discord server an
 
 **The roblox script is very simple and just moves a certain person, its very easy to customize it to move all players, or a object, or whatever you like.**
 
-**For test purposes its very eaay to run the flask script on https://render.com**
+**For test purposes its very easy to run the flask script on https://render.com**
+
+https://github.com/user-attachments/assets/02978c0b-788f-42b7-a7cf-a16880072310
+
 
