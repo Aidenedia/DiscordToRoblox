@@ -4,7 +4,6 @@ app = Flask(__name__)
 @app.route('/move', methods=['POST','GET'])
 
 def move():
-    valid_commands = ["forward","back","left","right","jump"]
     global last_command
     if request.method == 'POST':
         last_command = request.data.decode("utf-8").strip()
